@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+.App {
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  max-width: 1150px;
+  display: flex;
+  border-radius: 20px;
+  background-color: #eeeeee;
+}
+
